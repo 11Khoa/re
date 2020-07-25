@@ -1,13 +1,1 @@
 
-<!-- HTML meta refresh URL redirection -->
-<html>
-<head>
-   <meta http-equiv="refresh" 
-   content="0; url=https://www.facebook.com/opensharecafe">
-</head>
-<body>
-   <p>Đang chuyển đến 
-   <a href="https://www.facebook.com/opensharecafe">fanpage của OpenShare Café</a> 
-   trên Facebook!</p>
-</body>
-</html>
